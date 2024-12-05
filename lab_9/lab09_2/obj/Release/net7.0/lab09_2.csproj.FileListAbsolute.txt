@@ -1,0 +1,15 @@
+/Users/olesaandreeva/Projects/lab09/lab09_2/bin/Release/net7.0/lab09_2
+/Users/olesaandreeva/Projects/lab09/lab09_2/bin/Release/net7.0/lab09_2.deps.json
+/Users/olesaandreeva/Projects/lab09/lab09_2/bin/Release/net7.0/lab09_2.runtimeconfig.json
+/Users/olesaandreeva/Projects/lab09/lab09_2/bin/Release/net7.0/lab09_2.dll
+/Users/olesaandreeva/Projects/lab09/lab09_2/bin/Release/net7.0/lab09_2.pdb
+/Users/olesaandreeva/Projects/lab09/lab09_2/obj/Release/net7.0/lab09_2.csproj.AssemblyReference.cache
+/Users/olesaandreeva/Projects/lab09/lab09_2/obj/Release/net7.0/lab09_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olesaandreeva/Projects/lab09/lab09_2/obj/Release/net7.0/lab09_2.AssemblyInfoInputs.cache
+/Users/olesaandreeva/Projects/lab09/lab09_2/obj/Release/net7.0/lab09_2.AssemblyInfo.cs
+/Users/olesaandreeva/Projects/lab09/lab09_2/obj/Release/net7.0/lab09_2.csproj.CoreCompileInputs.cache
+/Users/olesaandreeva/Projects/lab09/lab09_2/obj/Release/net7.0/lab09_2.dll
+/Users/olesaandreeva/Projects/lab09/lab09_2/obj/Release/net7.0/refint/lab09_2.dll
+/Users/olesaandreeva/Projects/lab09/lab09_2/obj/Release/net7.0/lab09_2.pdb
+/Users/olesaandreeva/Projects/lab09/lab09_2/obj/Release/net7.0/lab09_2.genruntimeconfig.cache
+/Users/olesaandreeva/Projects/lab09/lab09_2/obj/Release/net7.0/ref/lab09_2.dll

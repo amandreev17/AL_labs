@@ -1,0 +1,12 @@
+/Users/olesaandreeva/Projects/lab08/MyLib/bin/Debug/net7.0/MyLib.deps.json
+/Users/olesaandreeva/Projects/lab08/MyLib/bin/Debug/net7.0/MyLib.dll
+/Users/olesaandreeva/Projects/lab08/MyLib/bin/Debug/net7.0/MyLib.pdb
+/Users/olesaandreeva/Projects/lab08/MyLib/obj/Debug/net7.0/MyLib.csproj.AssemblyReference.cache
+/Users/olesaandreeva/Projects/lab08/MyLib/obj/Debug/net7.0/MyLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olesaandreeva/Projects/lab08/MyLib/obj/Debug/net7.0/MyLib.AssemblyInfoInputs.cache
+/Users/olesaandreeva/Projects/lab08/MyLib/obj/Debug/net7.0/MyLib.AssemblyInfo.cs
+/Users/olesaandreeva/Projects/lab08/MyLib/obj/Debug/net7.0/MyLib.csproj.CoreCompileInputs.cache
+/Users/olesaandreeva/Projects/lab08/MyLib/obj/Debug/net7.0/MyLib.dll
+/Users/olesaandreeva/Projects/lab08/MyLib/obj/Debug/net7.0/refint/MyLib.dll
+/Users/olesaandreeva/Projects/lab08/MyLib/obj/Debug/net7.0/MyLib.pdb
+/Users/olesaandreeva/Projects/lab08/MyLib/obj/Debug/net7.0/ref/MyLib.dll

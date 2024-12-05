@@ -1,0 +1,15 @@
+/Users/olesaandreeva/Projects/lab06/lab06/bin/Debug/net7.0/lab06
+/Users/olesaandreeva/Projects/lab06/lab06/bin/Debug/net7.0/lab06.deps.json
+/Users/olesaandreeva/Projects/lab06/lab06/bin/Debug/net7.0/lab06.runtimeconfig.json
+/Users/olesaandreeva/Projects/lab06/lab06/bin/Debug/net7.0/lab06.dll
+/Users/olesaandreeva/Projects/lab06/lab06/bin/Debug/net7.0/lab06.pdb
+/Users/olesaandreeva/Projects/lab06/lab06/obj/Debug/net7.0/lab06.csproj.AssemblyReference.cache
+/Users/olesaandreeva/Projects/lab06/lab06/obj/Debug/net7.0/lab06.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olesaandreeva/Projects/lab06/lab06/obj/Debug/net7.0/lab06.AssemblyInfoInputs.cache
+/Users/olesaandreeva/Projects/lab06/lab06/obj/Debug/net7.0/lab06.AssemblyInfo.cs
+/Users/olesaandreeva/Projects/lab06/lab06/obj/Debug/net7.0/lab06.csproj.CoreCompileInputs.cache
+/Users/olesaandreeva/Projects/lab06/lab06/obj/Debug/net7.0/lab06.dll
+/Users/olesaandreeva/Projects/lab06/lab06/obj/Debug/net7.0/refint/lab06.dll
+/Users/olesaandreeva/Projects/lab06/lab06/obj/Debug/net7.0/lab06.pdb
+/Users/olesaandreeva/Projects/lab06/lab06/obj/Debug/net7.0/lab06.genruntimeconfig.cache
+/Users/olesaandreeva/Projects/lab06/lab06/obj/Debug/net7.0/ref/lab06.dll

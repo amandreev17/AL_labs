@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab10", "lab10\lab10.csproj", "{69466A12-03F2-4CD6-8AA8-26016753EE5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "findTicker", "findTicker\findTicker.csproj", "{0E9D7641-B8AD-413F-BD68-31C6F1DBD55F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69466A12-03F2-4CD6-8AA8-26016753EE5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69466A12-03F2-4CD6-8AA8-26016753EE5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69466A12-03F2-4CD6-8AA8-26016753EE5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69466A12-03F2-4CD6-8AA8-26016753EE5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E9D7641-B8AD-413F-BD68-31C6F1DBD55F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E9D7641-B8AD-413F-BD68-31C6F1DBD55F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E9D7641-B8AD-413F-BD68-31C6F1DBD55F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E9D7641-B8AD-413F-BD68-31C6F1DBD55F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B06DA34-4246-4024-8620-50F4657CA304}
+	EndGlobalSection
+EndGlobal

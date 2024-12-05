@@ -1,0 +1,15 @@
+/Users/olesaandreeva/Projects/lab08/findFile/bin/Debug/net7.0/findFile
+/Users/olesaandreeva/Projects/lab08/findFile/bin/Debug/net7.0/findFile.deps.json
+/Users/olesaandreeva/Projects/lab08/findFile/bin/Debug/net7.0/findFile.runtimeconfig.json
+/Users/olesaandreeva/Projects/lab08/findFile/bin/Debug/net7.0/findFile.dll
+/Users/olesaandreeva/Projects/lab08/findFile/bin/Debug/net7.0/findFile.pdb
+/Users/olesaandreeva/Projects/lab08/findFile/obj/Debug/net7.0/findFile.csproj.AssemblyReference.cache
+/Users/olesaandreeva/Projects/lab08/findFile/obj/Debug/net7.0/findFile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olesaandreeva/Projects/lab08/findFile/obj/Debug/net7.0/findFile.AssemblyInfoInputs.cache
+/Users/olesaandreeva/Projects/lab08/findFile/obj/Debug/net7.0/findFile.AssemblyInfo.cs
+/Users/olesaandreeva/Projects/lab08/findFile/obj/Debug/net7.0/findFile.csproj.CoreCompileInputs.cache
+/Users/olesaandreeva/Projects/lab08/findFile/obj/Debug/net7.0/findFile.dll
+/Users/olesaandreeva/Projects/lab08/findFile/obj/Debug/net7.0/refint/findFile.dll
+/Users/olesaandreeva/Projects/lab08/findFile/obj/Debug/net7.0/findFile.pdb
+/Users/olesaandreeva/Projects/lab08/findFile/obj/Debug/net7.0/findFile.genruntimeconfig.cache
+/Users/olesaandreeva/Projects/lab08/findFile/obj/Debug/net7.0/ref/findFile.dll

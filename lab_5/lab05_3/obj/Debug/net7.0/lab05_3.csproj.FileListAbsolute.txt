@@ -1,0 +1,15 @@
+/Users/olesaandreeva/Projects/lab05/lab05_3/bin/Debug/net7.0/lab05_3
+/Users/olesaandreeva/Projects/lab05/lab05_3/bin/Debug/net7.0/lab05_3.deps.json
+/Users/olesaandreeva/Projects/lab05/lab05_3/bin/Debug/net7.0/lab05_3.runtimeconfig.json
+/Users/olesaandreeva/Projects/lab05/lab05_3/bin/Debug/net7.0/lab05_3.dll
+/Users/olesaandreeva/Projects/lab05/lab05_3/bin/Debug/net7.0/lab05_3.pdb
+/Users/olesaandreeva/Projects/lab05/lab05_3/obj/Debug/net7.0/lab05_3.csproj.AssemblyReference.cache
+/Users/olesaandreeva/Projects/lab05/lab05_3/obj/Debug/net7.0/lab05_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olesaandreeva/Projects/lab05/lab05_3/obj/Debug/net7.0/lab05_3.AssemblyInfoInputs.cache
+/Users/olesaandreeva/Projects/lab05/lab05_3/obj/Debug/net7.0/lab05_3.AssemblyInfo.cs
+/Users/olesaandreeva/Projects/lab05/lab05_3/obj/Debug/net7.0/lab05_3.csproj.CoreCompileInputs.cache
+/Users/olesaandreeva/Projects/lab05/lab05_3/obj/Debug/net7.0/lab05_3.dll
+/Users/olesaandreeva/Projects/lab05/lab05_3/obj/Debug/net7.0/refint/lab05_3.dll
+/Users/olesaandreeva/Projects/lab05/lab05_3/obj/Debug/net7.0/lab05_3.pdb
+/Users/olesaandreeva/Projects/lab05/lab05_3/obj/Debug/net7.0/lab05_3.genruntimeconfig.cache
+/Users/olesaandreeva/Projects/lab05/lab05_3/obj/Debug/net7.0/ref/lab05_3.dll

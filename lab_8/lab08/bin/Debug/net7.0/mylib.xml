@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Animal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Country>Russia</Country>
+  <HideFromOtherAnimals>false</HideFromOtherAnimals>
+  <Name>Tiger</Name>
+  <WhatAnimal>Herbivores</WhatAnimal>
+</Animal><?xml version="1.0" encoding="utf-8"?>
+<Cow xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Country>Russia</Country>
+  <HideFromOtherAnimals>true</HideFromOtherAnimals>
+  <Name>Cow</Name>
+  <WhatAnimal>Carnivores</WhatAnimal>
+</Cow><?xml version="1.0" encoding="utf-8"?>
+<Pig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Country>Russia</Country>
+  <HideFromOtherAnimals>true</HideFromOtherAnimals>
+  <Name>Pig</Name>
+  <WhatAnimal>Omnivores</WhatAnimal>
+</Pig><?xml version="1.0" encoding="utf-8"?>
+<Lion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Country>Africa</Country>
+  <HideFromOtherAnimals>false</HideFromOtherAnimals>
+  <Name>Lion</Name>
+  <WhatAnimal>Herbivores</WhatAnimal>
+</Lion>

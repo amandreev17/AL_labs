@@ -1,0 +1,15 @@
+/Users/olesaandreeva/Projects/lab04_01/lab04/bin/Release/net7.0/lab04_01
+/Users/olesaandreeva/Projects/lab04_01/lab04/bin/Release/net7.0/lab04_01.deps.json
+/Users/olesaandreeva/Projects/lab04_01/lab04/bin/Release/net7.0/lab04_01.runtimeconfig.json
+/Users/olesaandreeva/Projects/lab04_01/lab04/bin/Release/net7.0/lab04_01.dll
+/Users/olesaandreeva/Projects/lab04_01/lab04/bin/Release/net7.0/lab04_01.pdb
+/Users/olesaandreeva/Projects/lab04_01/lab04/obj/Release/net7.0/lab04_01.csproj.AssemblyReference.cache
+/Users/olesaandreeva/Projects/lab04_01/lab04/obj/Release/net7.0/lab04_01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olesaandreeva/Projects/lab04_01/lab04/obj/Release/net7.0/lab04_01.AssemblyInfoInputs.cache
+/Users/olesaandreeva/Projects/lab04_01/lab04/obj/Release/net7.0/lab04_01.AssemblyInfo.cs
+/Users/olesaandreeva/Projects/lab04_01/lab04/obj/Release/net7.0/lab04_01.csproj.CoreCompileInputs.cache
+/Users/olesaandreeva/Projects/lab04_01/lab04/obj/Release/net7.0/lab04_01.dll
+/Users/olesaandreeva/Projects/lab04_01/lab04/obj/Release/net7.0/refint/lab04_01.dll
+/Users/olesaandreeva/Projects/lab04_01/lab04/obj/Release/net7.0/lab04_01.pdb
+/Users/olesaandreeva/Projects/lab04_01/lab04/obj/Release/net7.0/lab04_01.genruntimeconfig.cache
+/Users/olesaandreeva/Projects/lab04_01/lab04/obj/Release/net7.0/ref/lab04_01.dll
