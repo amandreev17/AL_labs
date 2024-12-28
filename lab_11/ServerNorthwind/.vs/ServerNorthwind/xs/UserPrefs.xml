@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{6EDFBD7A-70BF-4DF5-8A5B-10DBD819340E}|http">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ServerNorthwind PreferredExecutionTarget="/Volumes/Yandex/Yandex.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ServerNorthwind/Services/GreeterService.cs">
+    <Files>
+      <File FileName="ServerNorthwind/appsettings.json" />
+      <File FileName="ServerNorthwind/Protos/greet.proto" />
+      <File FileName="ServerNorthwind/Services/GreeterService.cs" Line="13" Column="31" />
+      <File FileName="ServerNorthwind/Program.cs" Line="11" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="ServerNorthwind" expanded="True">
+            <Node name="ServerNorthwind" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Protos" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="GreeterService.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
