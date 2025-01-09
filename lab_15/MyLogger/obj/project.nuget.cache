@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pP9VRLmIZK4WXtO/IWneiFm0e/1sfmUxW5brbE6TVSDZ4A81SdXDbnNMHu3YrnWkYHpdLuIFIxGHSQ5r1vf69A==",
+  "success": true,
+  "projectFilePath": "/Users/olesaandreeva/Projects/lab15/MyLogger/MyLogger.csproj",
+  "expectedPackageFiles": [
+    "/Users/olesaandreeva/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

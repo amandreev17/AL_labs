@@ -1,0 +1,17 @@
+/Users/olesaandreeva/Projects/lab15/MyLogger/bin/Debug/net7.0/MyLogger
+/Users/olesaandreeva/Projects/lab15/MyLogger/bin/Debug/net7.0/MyLogger.deps.json
+/Users/olesaandreeva/Projects/lab15/MyLogger/bin/Debug/net7.0/MyLogger.runtimeconfig.json
+/Users/olesaandreeva/Projects/lab15/MyLogger/bin/Debug/net7.0/MyLogger.dll
+/Users/olesaandreeva/Projects/lab15/MyLogger/bin/Debug/net7.0/MyLogger.pdb
+/Users/olesaandreeva/Projects/lab15/MyLogger/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/olesaandreeva/Projects/lab15/MyLogger/obj/Debug/net7.0/MyLogger.csproj.AssemblyReference.cache
+/Users/olesaandreeva/Projects/lab15/MyLogger/obj/Debug/net7.0/MyLogger.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olesaandreeva/Projects/lab15/MyLogger/obj/Debug/net7.0/MyLogger.AssemblyInfoInputs.cache
+/Users/olesaandreeva/Projects/lab15/MyLogger/obj/Debug/net7.0/MyLogger.AssemblyInfo.cs
+/Users/olesaandreeva/Projects/lab15/MyLogger/obj/Debug/net7.0/MyLogger.csproj.CoreCompileInputs.cache
+/Users/olesaandreeva/Projects/lab15/MyLogger/obj/Debug/net7.0/MyLogger.csproj.CopyComplete
+/Users/olesaandreeva/Projects/lab15/MyLogger/obj/Debug/net7.0/MyLogger.dll
+/Users/olesaandreeva/Projects/lab15/MyLogger/obj/Debug/net7.0/refint/MyLogger.dll
+/Users/olesaandreeva/Projects/lab15/MyLogger/obj/Debug/net7.0/MyLogger.pdb
+/Users/olesaandreeva/Projects/lab15/MyLogger/obj/Debug/net7.0/MyLogger.genruntimeconfig.cache
+/Users/olesaandreeva/Projects/lab15/MyLogger/obj/Debug/net7.0/ref/MyLogger.dll

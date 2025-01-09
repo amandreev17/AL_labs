@@ -1,0 +1,15 @@
+/Users/olesaandreeva/Projects/lab15/lab15/bin/Debug/net7.0/FileSystemWatcher
+/Users/olesaandreeva/Projects/lab15/lab15/bin/Debug/net7.0/FileSystemWatcher.deps.json
+/Users/olesaandreeva/Projects/lab15/lab15/bin/Debug/net7.0/FileSystemWatcher.runtimeconfig.json
+/Users/olesaandreeva/Projects/lab15/lab15/bin/Debug/net7.0/FileSystemWatcher.dll
+/Users/olesaandreeva/Projects/lab15/lab15/bin/Debug/net7.0/FileSystemWatcher.pdb
+/Users/olesaandreeva/Projects/lab15/lab15/obj/Debug/net7.0/FileSystemWatcher.csproj.AssemblyReference.cache
+/Users/olesaandreeva/Projects/lab15/lab15/obj/Debug/net7.0/FileSystemWatcher.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olesaandreeva/Projects/lab15/lab15/obj/Debug/net7.0/FileSystemWatcher.AssemblyInfoInputs.cache
+/Users/olesaandreeva/Projects/lab15/lab15/obj/Debug/net7.0/FileSystemWatcher.AssemblyInfo.cs
+/Users/olesaandreeva/Projects/lab15/lab15/obj/Debug/net7.0/FileSystemWatcher.csproj.CoreCompileInputs.cache
+/Users/olesaandreeva/Projects/lab15/lab15/obj/Debug/net7.0/FileSystemWatcher.dll
+/Users/olesaandreeva/Projects/lab15/lab15/obj/Debug/net7.0/refint/FileSystemWatcher.dll
+/Users/olesaandreeva/Projects/lab15/lab15/obj/Debug/net7.0/FileSystemWatcher.pdb
+/Users/olesaandreeva/Projects/lab15/lab15/obj/Debug/net7.0/FileSystemWatcher.genruntimeconfig.cache
+/Users/olesaandreeva/Projects/lab15/lab15/obj/Debug/net7.0/ref/FileSystemWatcher.dll

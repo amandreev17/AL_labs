@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="lab13.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25">
+
+            <Button
+                x:Name="Connect"
+                Text="Connect to the server" 
+                SemanticProperties.Hint="Counts the number of times you click"
+                Clicked="OnCounterClicked"
+                HorizontalOptions="Fill" />
+
+
+
+            <Entry Placeholder="Enter the Id" x:Name="Id"/>
+            <Entry Placeholder="Enter the Name" x:Name="Name"/>
+            <Entry Placeholder="Enter the GroupId" x:Name="GroupId"/>
+            <Entry Placeholder="Enter the StipId" x:Name="StipId"/>
+            <Button
+                x:Name="get"
+                Text="Get" 
+                SemanticProperties.Hint="Counts the number of times you click"
+                Clicked="GetClicked"
+                HorizontalOptions="Fill" />
+            <Button
+                x:Name="Post"
+                Text="Post" 
+                SemanticProperties.Hint="Counts the number of times you click"
+                Clicked="PostClicked"
+                HorizontalOptions="Fill" />
+            <Button
+                x:Name="Put"
+                Text="Put/Update" 
+                SemanticProperties.Hint="Counts the number of times you click"
+                Clicked="PutClicked"
+                HorizontalOptions="Fill" />
+            <Button
+                x:Name="del"
+                Text="Delete" 
+                SemanticProperties.Hint="Counts the number of times you click"
+                Clicked="DelClicked"
+                HorizontalOptions="Fill" />
+
+            <ListView x:Name="CheckList" HasUnevenRows="True" Footer="">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid RowDefinitions="Auto,Auto,Auto">
+                                <Label Text="{Binding Id}" TextColor="Black">
+                                    
+                                </Label>
+                                <Label Grid.Row ="1" Text="{Binding Name}" TextColor="Black">
+
+                                </Label>
+                                <Label Grid.Row ="2" Text="{Binding GroupId}" TextColor="Black">
+
+                                </Label>
+                                <Label Grid.Row ="3" Text="{Binding StipId}" TextColor="Black">
+
+                                </Label>
+
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+            <Entry Placeholder="Enter the GroupId2" x:Name="GroupId2"/>
+            <Entry Placeholder="Enter the NameGroup" x:Name="NameGroup"/>
+            <Button
+                x:Name="get2"
+                Text="Get" 
+                SemanticProperties.Hint="Counts the number of times you click"
+                Clicked="GetClickedG"
+                HorizontalOptions="Fill" />
+            <Button
+                x:Name="Post2"
+                Text="Post" 
+                SemanticProperties.Hint="Counts the number of times you click"
+                Clicked="PostClickedG"
+                HorizontalOptions="Fill" />
+            <Button
+                x:Name="Put2"
+                Text="Put/Update" 
+                SemanticProperties.Hint="Counts the number of times you click"
+                Clicked="PutClickedG"
+                HorizontalOptions="Fill" />
+            <Button
+                x:Name="del2"
+                Text="Delete" 
+                SemanticProperties.Hint="Counts the number of times you click"
+                Clicked="DelClickedG"
+                HorizontalOptions="Fill" />
+
+            <ListView x:Name="CheckListG" HasUnevenRows="True" Footer="">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid RowDefinitions="Auto,Auto">
+                                <Label Grid.Row="0"  Text="{Binding GroupId}" TextColor="Black">
+
+                                </Label>
+                                <Label Grid.Row ="1" Text="{Binding NameGroup}" TextColor="Black">
+
+                                </Label>
+
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+            <Entry Placeholder="Enter the StipId" x:Name="StipsId"/>
+            <Entry Placeholder="Enter the Size" x:Name="SizeS"/>
+            <Button
+                x:Name="get8"
+                Text="Get" 
+                SemanticProperties.Hint="Counts the number of times you click"
+                Clicked="GetClickedS"
+                HorizontalOptions="Fill" />
+            <Button
+                x:Name="Post8"
+                Text="Post" 
+                SemanticProperties.Hint="Counts the number of times you click"
+                Clicked="PostClickedS"
+                HorizontalOptions="Fill" />
+            <Button
+                x:Name="Put8"
+                Text="Put/Update" 
+                SemanticProperties.Hint="Counts the number of times you click"
+                Clicked="PutClickedS"
+                HorizontalOptions="Fill" />
+            <Button
+                x:Name="del8"
+                Text="Delete" 
+                SemanticProperties.Hint="Counts the number of times you click"
+                Clicked="DelClickedS"
+                HorizontalOptions="Fill" />
+
+            <ListView x:Name="CheckListS" HasUnevenRows="True" Footer="">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid RowDefinitions="Auto,Auto">
+                                <Label Grid.Row="0"  Text="{Binding StipId}" TextColor="Black">
+
+                                </Label>
+                                <Label Grid.Row ="1" Text="{Binding Size}" TextColor="Black">
+
+                                </Label>
+
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

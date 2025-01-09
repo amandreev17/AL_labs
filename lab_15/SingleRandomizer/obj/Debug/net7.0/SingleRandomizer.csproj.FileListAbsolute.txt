@@ -1,0 +1,15 @@
+/Users/olesaandreeva/Projects/lab15/SingleRandomizer/bin/Debug/net7.0/SingleRandomizer
+/Users/olesaandreeva/Projects/lab15/SingleRandomizer/bin/Debug/net7.0/SingleRandomizer.deps.json
+/Users/olesaandreeva/Projects/lab15/SingleRandomizer/bin/Debug/net7.0/SingleRandomizer.runtimeconfig.json
+/Users/olesaandreeva/Projects/lab15/SingleRandomizer/bin/Debug/net7.0/SingleRandomizer.dll
+/Users/olesaandreeva/Projects/lab15/SingleRandomizer/bin/Debug/net7.0/SingleRandomizer.pdb
+/Users/olesaandreeva/Projects/lab15/SingleRandomizer/obj/Debug/net7.0/SingleRandomizer.csproj.AssemblyReference.cache
+/Users/olesaandreeva/Projects/lab15/SingleRandomizer/obj/Debug/net7.0/SingleRandomizer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olesaandreeva/Projects/lab15/SingleRandomizer/obj/Debug/net7.0/SingleRandomizer.AssemblyInfoInputs.cache
+/Users/olesaandreeva/Projects/lab15/SingleRandomizer/obj/Debug/net7.0/SingleRandomizer.AssemblyInfo.cs
+/Users/olesaandreeva/Projects/lab15/SingleRandomizer/obj/Debug/net7.0/SingleRandomizer.csproj.CoreCompileInputs.cache
+/Users/olesaandreeva/Projects/lab15/SingleRandomizer/obj/Debug/net7.0/SingleRandomizer.dll
+/Users/olesaandreeva/Projects/lab15/SingleRandomizer/obj/Debug/net7.0/refint/SingleRandomizer.dll
+/Users/olesaandreeva/Projects/lab15/SingleRandomizer/obj/Debug/net7.0/SingleRandomizer.pdb
+/Users/olesaandreeva/Projects/lab15/SingleRandomizer/obj/Debug/net7.0/SingleRandomizer.genruntimeconfig.cache
+/Users/olesaandreeva/Projects/lab15/SingleRandomizer/obj/Debug/net7.0/ref/SingleRandomizer.dll
